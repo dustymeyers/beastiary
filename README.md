@@ -16,3 +16,6 @@ Install requirements.txt
 ```
     pip install -r requirements.txt
 ```
+
+# running the application
+In development mode run the debugger in VsCode, please see the launch.json in .vscode
